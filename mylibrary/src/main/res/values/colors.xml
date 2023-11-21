@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_color">#1d3f48</color>
+    <color name="textTitleSelectColor">#00ffff</color>
+
+    <color name="nine">#999999</color>
+    <color name="three">#333333</color>
+    <color name="login_group_text">#02010E</color>
+    <color name="login_clause_color">#4499F5</color>
+    <color name="login_clause_color_disables">#80007aff</color>
+    <color name="c9">#c9c9c9</color>
+    <color name="f7">#f7f7f7</color>
+    <color name="f9">#f9f9f9</color>
+    <color name="red">#FF0000</color>
+    <color name="zero">#000000</color>
+
+    <color name="c300">#30000000</color>
+
+    <color name="fzero">#ff000000</color>
+    <color name="notification">#5B341B</color>
+
+    <color name="my_bottom_text">#242B37</color>
+    <color name="line">#EFEFF7</color>
+    <color name="logout">#949498</color>
+    <color name="top_text">#1B1C21</color>
+    <color name="notification_time">#98A2AD</color>
+    <color name="time_color">#3C3C43</color>
+
+    <color name="background_color">#F3F5F9</color>
+    <color name="name_back">#1A1C1F</color>
+    <color name="c151620">#151620</color>
+    <color name="c0089FF">#0089FF</color>
+    <color name="FE001F">#FE001F</color>
+    <color name="B8B8B8">#B8B8B8</color>
+    <color name="c8C4606">#8C4606</color>
+    <color name="c2E3134">#2E3134</color>
+    <color name="E8ECF5">#E8ECF5</color>
+    <color name="c181818">#181818</color>
+    <color name="E5F3FF">#E5F3FF</color>
+    <color name="B1B1B1">#B1B1B1</color>
+    <color name="A4A4A4">#A4A4A4</color>
+    <color name="c83868E">#83868E</color>
+    <color name="c797D84">#797D84</color>
+    <color name="c747880">#747880</color>
+    <color name="c202020">#202020</color>
+    <color name="c161620">#161620</color>
+    <color name="c0052FE">#0052FE</color>
+
+
+    <color name="tab_text_checked">#0076ff</color>
+    <color name="tab_text_default">#8e8e93</color>
+    <color name="textTitleColor">#333333</color>
+
+
+    <color name="colorPrimary">#4499F5</color>
+    <color name="colorPrimaryDark">#00574b</color>
+
+    <color name="F2F3F5">#F2F3F5</color>
+</resources>
